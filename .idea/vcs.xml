@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CPFlow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DenseFlow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DenseFlow/LinFormer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DenseFlow/Nystromformer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DenseFlow/Paramixer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DenseFlow/PerFormer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DenseFlow/PerFormer/performer-pytorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DenseFlow/ReFormer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ImpFlow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ResFlow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/i-DenseNet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/i-ResNet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/implicit-normalizing-flows" vcs="Git" />
+  </component>
+</project>

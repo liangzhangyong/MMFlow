@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e305b4c9-b99e-4f15-b7eb-bf32c070b9e8" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/DenseFlow/Paramixer" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29A6aqYzxNP5tfyUj89W2WOqLy9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Administrator/Desktop/PhyMaxCoAt",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\liangzhy\Desktop\MMGbLcFlow\lib\layers" />
+      <recent name="C:\Users\liangzhy\Desktop\MMGbLcFlow" />
+      <recent name="C:\Users\liangzhy\Desktop\MMGbLcFlow\lib" />
+      <recent name="C:\Users\liangzhy\Desktop\MMGbLcFlow\lib\layers\base" />
+      <recent name="D:\zyliang_ml\Manifold_match_for_glow\MMGbLcFlow\lib\layers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\liangzhy\Desktop\MMGbLcFlow\lib" />
+      <recent name="D:\zyliang_ml\Manifold_match_for_glow\MMGbLcFlow\lib\layers\base" />
+      <recent name="D:\zyliang_ml\Manifold_match_for_glow\MMGbLcFlow\lib\layers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.invattention (1)">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="LocalViTFlow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Anaconda3\envs\zyliang3.9\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib/layers/base" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/layers/base/activations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="activations" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="LocalViTFlow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Anaconda3\envs\zyliang3.9\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib/layers/base" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/layers/base/activations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="attention" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LocalViTFlow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Anaconda3\envs\zyliang3.9\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib/layers/base" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DenseFlow/denseflow/nn/blocks/attention.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="invattention (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LocalViTFlow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Anaconda3\envs\zyliang3.9\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib/layers/base" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/layers/invattention.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="invmbconv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LocalViTFlow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Anaconda3\envs\zyliang3.9\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib/layers/base" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/layers/invmbconv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mixed_lipschitz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LocalViTFlow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Anaconda3\envs\zyliang3.9\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib/layers/base" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/layers/base/mixed_lipschitz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mmgblcflow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LocalViTFlow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Anaconda3\envs\zyliang3.9\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib/layers/base" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\liangzhy\Desktop\MMGbLcFlow\lib\mmgblcflow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.invattention (1)" />
+        <item itemvalue="Python.attention" />
+        <item itemvalue="Python.mixed_lipschitz" />
+        <item itemvalue="Python.mmgblcflow" />
+        <item itemvalue="Python.invmbconv" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e305b4c9-b99e-4f15-b7eb-bf32c070b9e8" name="Changes" comment="" />
+      <created>1652544289607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652544289607</updated>
+      <workItem from="1652544291522" duration="454000" />
+      <workItem from="1652551718742" duration="160000" />
+      <workItem from="1652555649869" duration="599000" />
+      <workItem from="1652616025540" duration="1211000" />
+      <workItem from="1652626192594" duration="1750000" />
+      <workItem from="1652661536869" duration="1283000" />
+      <workItem from="1652671359353" duration="82000" />
+      <workItem from="1652693014514" duration="671000" />
+      <workItem from="1652702196044" duration="24000" />
+      <workItem from="1652776272256" duration="3059000" />
+      <workItem from="1652884972409" duration="1311000" />
+      <workItem from="1652920485798" duration="2394000" />
+      <workItem from="1652967556494" duration="44000" />
+      <workItem from="1653228820744" duration="596000" />
+      <workItem from="1653267963621" duration="247000" />
+      <workItem from="1653268485938" duration="25000" />
+      <workItem from="1653268640970" duration="1312000" />
+      <workItem from="1653274111574" duration="63000" />
+      <workItem from="1653274592645" duration="151000" />
+      <workItem from="1653275515306" duration="478000" />
+      <workItem from="1653357130053" duration="1275000" />
+      <workItem from="1653370699388" duration="1442000" />
+      <workItem from="1653439537468" duration="4679000" />
+      <workItem from="1653611834733" duration="1225000" />
+      <workItem from="1653810872629" duration="6898000" />
+      <workItem from="1653871026055" duration="1289000" />
+      <workItem from="1653872342756" duration="13458000" />
+      <workItem from="1653896409770" duration="2946000" />
+      <workItem from="1653956834887" duration="12622000" />
+      <workItem from="1654006917625" duration="5321000" />
+      <workItem from="1654044503505" duration="8247000" />
+      <workItem from="1654066195523" duration="191000" />
+      <workItem from="1654066490461" duration="600000" />
+      <workItem from="1654135757328" duration="14886000" />
+      <workItem from="1654161425455" duration="15000" />
+      <workItem from="1654185383231" duration="12917000" />
+      <workItem from="1654301083540" duration="26760000" />
+      <workItem from="1654476087103" duration="9997000" />
+      <workItem from="1654563250635" duration="81000" />
+      <workItem from="1654563467043" duration="15005000" />
+      <workItem from="1654648362749" duration="1872000" />
+      <workItem from="1654754864303" duration="3038000" />
+      <workItem from="1654766654576" duration="309000" />
+      <workItem from="1654769070807" duration="579000" />
+      <workItem from="1654848340814" duration="970000" />
+      <workItem from="1654930000152" duration="1346000" />
+      <workItem from="1655081354335" duration="17955000" />
+      <workItem from="1655167221928" duration="10264000" />
+      <workItem from="1655256334475" duration="5689000" />
+      <workItem from="1655283195309" duration="601000" />
+      <workItem from="1655339473831" duration="1057000" />
+      <workItem from="1655349810818" duration="7264000" />
+      <workItem from="1655371493327" duration="842000" />
+      <workItem from="1655372350541" duration="2833000" />
+      <workItem from="1655375223285" duration="186000" />
+      <workItem from="1655425796212" duration="3559000" />
+      <workItem from="1655446270182" duration="2441000" />
+      <workItem from="1655454873851" duration="613000" />
+      <workItem from="1655456556071" duration="3678000" />
+      <workItem from="1655625040461" duration="12081000" />
+      <workItem from="1655646561534" duration="7422000" />
+      <workItem from="1655686460056" duration="7691000" />
+      <workItem from="1655779814814" duration="7723000" />
+      <workItem from="1655865003919" duration="5507000" />
+      <workItem from="1655945812429" duration="80000" />
+      <workItem from="1656044162536" duration="7703000" />
+      <workItem from="1656469655914" duration="1126000" />
+      <workItem from="1656552663637" duration="6473000" />
+      <workItem from="1656584053762" duration="489000" />
+      <workItem from="1656635851081" duration="8806000" />
+      <workItem from="1656779706868" duration="3857000" />
+      <workItem from="1656901959090" duration="15595000" />
+      <workItem from="1656982931371" duration="20843000" />
+      <workItem from="1657067826141" duration="12926000" />
+      <workItem from="1657092231295" duration="8546000" />
+      <workItem from="1657102304668" duration="541000" />
+      <workItem from="1657534212177" duration="680000" />
+      <workItem from="1657587356327" duration="1805000" />
+      <workItem from="1658063518464" duration="12000" />
+      <workItem from="1658063768584" duration="40000" />
+      <workItem from="1658063877129" duration="49000" />
+      <workItem from="1658064545167" duration="916000" />
+      <workItem from="1658072590921" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lib/layers/invmbconv.py</url>
+          <line>168</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DenseFlow/denseflow/nn/blocks/attention.py</url>
+          <line>108</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DenseFlow/LinFormer/examples/example.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MMGbLcFlow$elemwise.coverage" NAME="elemwise Coverage Results" MODIFIED="1655108344147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/layers/base" />
+    <SUITE FILE_PATH="coverage/MMGbLcFlow$invgbtrans.coverage" NAME="invgbtrans Coverage Results" MODIFIED="1656049980690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/layers/base" />
+    <SUITE FILE_PATH="coverage/MMLocalFlow$activations.coverage" NAME="activations Coverage Results" MODIFIED="1653872276666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/layers/base" />
+    <SUITE FILE_PATH="coverage/MMGbLcFlow$activations.coverage" NAME="activations Coverage Results" MODIFIED="1656667049797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/layers/base" />
+    <SUITE FILE_PATH="coverage/MMGbLcFlow$invattention.coverage" NAME="invattention Coverage Results" MODIFIED="1655700101653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/layers/base" />
+    <SUITE FILE_PATH="coverage/MMGbLcFlow$invattention__1_.coverage" NAME="invattention (1) Coverage Results" MODIFIED="1657099371450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/layers/base" />
+    <SUITE FILE_PATH="coverage/MMGbLcFlow$mixed_lipschitz.coverage" NAME="mixed_lipschitz Coverage Results" MODIFIED="1656984332292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/layers/base" />
+    <SUITE FILE_PATH="coverage/MMGbLcFlow$attention.coverage" NAME="attention Coverage Results" MODIFIED="1657091988147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/layers/base" />
+    <SUITE FILE_PATH="coverage/MMGbLcFlow$maxvitflow.coverage" NAME="maxvitflow Coverage Results" MODIFIED="1656862310593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/layers/base" />
+    <SUITE FILE_PATH="coverage/MMGbLcFlow$normalization.coverage" NAME="normalization Coverage Results" MODIFIED="1655169086040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/layers/base" />
+    <SUITE FILE_PATH="coverage/MMGbLcFlow$invmbconv.coverage" NAME="invmbconv Coverage Results" MODIFIED="1656055048980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/layers/base" />
+  </component>
+</project>
